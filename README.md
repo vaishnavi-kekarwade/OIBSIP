@@ -22,6 +22,10 @@ my Data Analytics Internship at Oasis Infobyte.
  Task 7 | Fraud Detection 
 <br>
 Task 8 | Android App Market 
+<br>
+Task 9 | Autocomplete and autocorrect
+
+
 
 # Tools Used
 Python, Pandas, NumPy, Scikit-learn, 
